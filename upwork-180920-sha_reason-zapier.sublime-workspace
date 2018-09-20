@@ -1,0 +1,852 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"phon",
+				"phone_number"
+			],
+			[
+				"even",
+				"event_title"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"sele",
+				"select_name"
+			],
+			[
+				"rad",
+				"radios"
+			],
+			[
+				"radio",
+				"radio"
+			],
+			[
+				"ra",
+				"radio_group"
+			],
+			[
+				"node",
+				"nodeToRemove"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"div_title",
+				"div_title_"
+			],
+			[
+				"div_w",
+				"div_where"
+			],
+			[
+				"div",
+				"div_where_"
+			],
+			[
+				"div_de",
+				"div_details"
+			],
+			[
+				"div_",
+				"div_details_"
+			],
+			[
+				"ref",
+				"refNode"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"ob",
+				"observe"
+			],
+			[
+				"js",
+				"jsfiles"
+			],
+			[
+				"leads",
+				"leads"
+			],
+			[
+				"page",
+				"page_number"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"data",
+				"data_table"
+			],
+			[
+				"a",
+				"array\t$… = array (…)"
+			],
+			[
+				"url",
+				"url_index"
+			],
+			[
+				"lea",
+				"lead_types"
+			],
+			[
+				"uni",
+				"unique_urls"
+			],
+			[
+				"lead",
+				"lead_type"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"quer",
+				"query_p"
+			],
+			[
+				"fet",
+				"fetchLeads"
+			],
+			[
+				"pa",
+				"page_number"
+			],
+			[
+				"p",
+				"page_number"
+			],
+			[
+				"hea",
+				"Headers"
+			],
+			[
+				"qu",
+				"query_p"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"que",
+				"query_s"
+			],
+			[
+				"query",
+				"query_p"
+			],
+			[
+				"call",
+				"call_url"
+			],
+			[
+				"on",
+				"onRequest"
+			],
+			[
+				"an",
+				"answered_by"
+			],
+			[
+				"message",
+				"message_2"
+			],
+			[
+				"me",
+				"message_2"
+			],
+			[
+				"t_",
+				"t_lawyers"
+			],
+			[
+				"user",
+				"user_tries"
+			],
+			[
+				"get_temp",
+				"get_temp_users"
+			],
+			[
+				"get_temp_",
+				"get_temp_lawyers"
+			],
+			[
+				"lawe",
+				"lawyer"
+			],
+			[
+				"ret",
+				"retry_timeout"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"ini",
+				"initiateVoice"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"l",
+				"lawyer"
+			],
+			[
+				"send",
+				"sendText"
+			],
+			[
+				"max",
+				"max_lawyer_tries"
+			],
+			[
+				"law",
+				"lawyer_tries"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"get_",
+				"get_lead"
+			],
+			[
+				"Ca",
+				"CallStatus"
+			],
+			[
+				"fail",
+				"failed"
+			],
+			[
+				"tw",
+				"twilio_querystring"
+			],
+			[
+				"twilio",
+				"twilio_querystring"
+			],
+			[
+				"mach",
+				"machine_start"
+			],
+			[
+				"conta",
+				"contactId"
+			],
+			[
+				"templ",
+				"template"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"twilio_",
+				"twilio_from"
+			],
+			[
+				"twi",
+				"twilioCallback_url"
+			],
+			[
+				"twilioAns",
+				"twilioAnswered_url"
+			],
+			[
+				"tr",
+				"transaction"
+			],
+			[
+				"phone",
+				"phones"
+			],
+			[
+				"la",
+				"lawyer"
+			],
+			[
+				"s",
+				"snapshot"
+			],
+			[
+				"templa",
+				"template"
+			],
+			[
+				"bitly",
+				"bitly_done"
+			],
+			[
+				"cal",
+				"call_url"
+			],
+			[
+				"ph",
+				"phones"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"bi",
+				"bitly"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"long",
+				"long_url"
+			],
+			[
+				"bit",
+				"bitly_group"
+			],
+			[
+				"bity",
+				"bitly_url"
+			],
+			[
+				"query_",
+				"query_templates"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"ve",
+				"verification"
+			],
+			[
+				"pu",
+				"pushToLawyers"
+			],
+			[
+				"veiri",
+				"veriication"
+			],
+			[
+				"area",
+				"areaOfPractice"
+			],
+			[
+				"pra",
+				"areaOfPractice"
+			],
+			[
+				"veri",
+				"verification"
+			],
+			[
+				"v",
+				"val"
+			],
+			[
+				"twlio",
+				"twilio_from"
+			],
+			[
+				"cit",
+				"cities"
+			],
+			[
+				"is",
+				"isCityValid"
+			],
+			[
+				"mon",
+				"mongo_client"
+			],
+			[
+				"mongo",
+				"mongo_db"
+			],
+			[
+				"c",
+				"client"
+			],
+			[
+				"auth",
+				"authData"
+			],
+			[
+				"fire",
+				"firebaseRef"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-stretch"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"parse",
+				"parseDate"
+			],
+			[
+				"check",
+				"checkIn"
+			],
+			[
+				"che",
+				"checkinDate"
+			],
+			[
+				"date",
+				"dateFormat"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"nigh",
+				"nightCount"
+			],
+			[
+				"_set",
+				"_setupPage"
+			],
+			[
+				"app",
+				"appCopy"
+			],
+			[
+				"roo",
+				"roomCount"
+			],
+			[
+				"form",
+				"formRooms"
+			],
+			[
+				"this",
+				"thisForm"
+			],
+			[
+				"ths",
+				"thisForm"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "code.js",
+			"settings":
+			{
+				"buffer_size": 6844,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "function onOpen() {"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bquaresma/Google Drive/software-dev/upwork-180920-sha_reason-zapier"
+	],
+	"file_history":
+	[
+		"/Users/bquaresma/Google Drive/software-dev/upwork-jackhall-fightalarm/squarespace/alarm_subscription-post-submit.html",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-jackhall-fightalarm/heroku-backend/index.js",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-jackhall-fightalarm/heroku-backend/app/routes/phoneValidation_routes.js",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-jackhall-fightalarm/heroku-backend/config.js",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-jackhall-fightalarm/heroku-backend/app/routes/index.js",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-jackhall-fightalarm/heroku-backend/package.json",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-jackhall-fightalarm/heroku-backend/.gitignore",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-jackhall-fightalarm/.gitignore",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-jackhall-fightalarm/heroku-backend/Procfile",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-jackhall-fightalarm/package.json",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/index.html",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/fbevents.js",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/err_details.json",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/webhooks/twilio_sms.js",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/webhooks/twilio_voice.js",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/twilio_voice.js",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/webhooks/wa.js",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/hello_details.js",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/_twilio_voice_inbound.js",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/_me_inbound.js",
+		"/Users/bquaresma/Google Drive/software-dev/buffalos-comm-hub_aws-lamdba/serverless.yml",
+		"/Users/bquaresma/Downloads/results_2dhiv9GqgbCXZXkpt.json",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-whatcovnverts-chart-test/whatconverts-chat-test.html",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-whatcovnverts-chart-test/temp.js",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-whatcovnverts-chart-test/js_to_.php",
+		"/Users/bquaresma/Downloads/results_5JPkD3dx2ttzT7RSw.json",
+		"/Users/bquaresma/Downloads/results_yiwMpPLjdr7C9Eh5h.json",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-Rik_Sehgal_180730/functions/index.js",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-Rik_Sehgal_180730/functions/package.json",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-Rik_Sehgal_180730/functions/node_modules/twilio/index.js",
+		"/Users/bquaresma/Google Drive/software-dev/upwork-Rik_Sehgal_180730/firebase.json",
+		"/Users/bquaresma/Google Drive/software-dev/projects-downloaded-c9/_study-mongodb-university-M001/chapter_2/loadMovieDetailsDataset/loadMovieDetailsDataset.js",
+		"/Users/bquaresma/Google Drive/software-dev/project-onboardme/src/my-view1.html",
+		"/Users/bquaresma/Downloads/stitch-examples-master/todo/src/index.js",
+		"/Volumes/GoogleDrive/My Drive/software-dev/projects-downloaded-c9/_study-firebase/json-to-firestore.js",
+		"/Volumes/GoogleDrive/My Drive/software-dev/projects-downloaded-c9/_study-firebase/sample-data.json",
+		"/usr/local/php5-7.1.13-20180201-134129/lib/php.ini",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/plugins/fetch.json",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/plugins/browser.json",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/config.xml",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/spec.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/9-support-numbers.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/js/index.js",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/9-support.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/6-manage-bookings-cancel.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/9-support-form.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/9-faqs.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/9-about.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/6-manage-bookings-details.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/7-referral-program.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/2-hotel-map-view.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/z-search-destination-autocomplete.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/z-search-date-picker.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/6-referral-program.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/1-search.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/6-manage-bookings.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/6-manage-travel-credits.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/2-hotel-list.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/0-login.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/z-transition.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/index.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/z-template-a.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/z-template-b.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/3-hotel-deatils.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/4-check-out.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/5-confirmation.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/buffalos-world/www/app-blocks/top-destinations.html",
+		"/Users/bquaresma/Downloads/sky/sky.css",
+		"/Users/bquaresma/Downloads/sky/sky.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/www-bak/index.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/www/js/app.js",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/www/index.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/www/user-details.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/www/js/config.js",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/www/css/index.css",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/www/user-login.html",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/www/data/promo.json",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/www/js/index.js",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/config.xml",
+		"/Users/bquaresma/Google Drive/Engineering/phonegap-projects/myapp2/www/index2.html",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-template.js",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-hotel-info.js",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-hotel-list.js",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/services/ajax-ean-hotel-avail.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-payment.js",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-payment.html",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-hotel-info.html",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/book-now.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-hotel-list.html",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-search-box-home.html",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-template.html",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/index.html",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/hotel-info.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/payment01.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/php.ini",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/scripts/global.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/styles/typeahead.css",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/index.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-register.html",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/register.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/app.yaml",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/utopian-spring-828/index.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/utopian-spring-828/default.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/test01.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/test02.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-template-background.html",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/hotels.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/oth-home.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/sign-in.php",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/bower_components/buffalos-elements/buffalos-sign-in.html",
+		"/Users/bquaresma/Google Drive/Engineering/google-app-engine/data-buckeye-590/scripts/global.js",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/scripts/imports.html",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/about.html",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/scripts/global.js",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/styles/buffalos-core.css",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/bower_components/buffalos-elements/buffalos-search-box-home.html",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/index.php",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/services/ajax-autocomplete-regions.php",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/services/app.yaml",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/data-buckeye-590/app.yaml",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/app.yaml.back",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/htl-home.php",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/check-out.php",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/bower_components/buffalos-elements/buffalos-template.html",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/bower_components/buffalos-elements/buffalos-template-background.html",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/bower_components/buffalos-elements/buffalos-please-hold.html",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/Users/bquaresma/google-app-engine/data-buckeye-590 v1.0/bower_components/bootstrap-datepicker/README.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "code.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function onOpen() {",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "upwork-180920-sha_reason-zapier.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
